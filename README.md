@@ -9,7 +9,7 @@
 ## 🎨 Screen
 
 <div align="center">
-  <img src="./.github/screen.png" alt="calculadora" width="600" height="400"/>
+  <img src="./.github/screen.png" alt="calculadora" width="600" height="600"/>
 </div>
 
 ## 🧰 Tools
