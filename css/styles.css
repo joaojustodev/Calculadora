@@ -8,6 +8,10 @@ body {
   height: 100vh;
 }
 
+button {
+  cursor: pointer;
+}
+
 .calculadora {
   border: solid 1px #000;
   padding: 20px;
